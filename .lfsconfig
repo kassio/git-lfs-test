@@ -1,0 +1,2 @@
+[lfs]
+	url = https://foo:bar@lfs.example.com/foo/bar/info/lfs
