@@ -1,2 +1,2 @@
 [lfs]
-	url = https://foo:bar@lfs.example.com/foo/bar/info/lfs
+	url = https://foo:bar@https://git-lfs.github.com/spec/v1
